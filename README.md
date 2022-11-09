@@ -5,6 +5,7 @@
 The business request for this data analyst project is about Thera Bank which has a growing customer base. Majority of the customers are liability customers (depositors) with varying sizes of deposits. We want to compare to the borrowers (asset customers) and see if there is growth potential for this base which the bank would be interested in bringing more loan business and in the process, earn more through the interest on loans. The management wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors). 
 The department wants to build a model that will help them identify the potential customers who have a higher probability of converting. For this we will identify through hypothesis testing. 
 
+
 The tools used in this particular project is Python and its multiple libraries, such as Pandas, Numpy, Matplotlib, Missingno and Scipy Statsmodel.
 
 •• The implementation of the prediction model (Machine Learning) will be implemented in the future. For now, this project will remain as Exploratory Data Analysis (EDA).  
