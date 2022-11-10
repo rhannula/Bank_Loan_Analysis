@@ -1,4 +1,4 @@
-# [Bank Lending Analysis](https://github.com/rhannula/Bank_Loan_Analysis)
+# [Bank Lending Analysis](https://rhannula.github.io/Robert_Portfolio/)
 
 ## Overview:
 
