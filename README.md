@@ -16,8 +16,8 @@ The tools used in this particular project is Python and its multiple libraries, 
 
 Checking for any missing values in our DataFrame.
 
-![](https://github.com/rhannula/Bank_Loan_Analysis/blob/29133729cf511caa8379203bf193b0c3010db4db/Pictures/Screenshot%202022-11-09%20at%2002.14.12.png)
-![](https://github.com/rhannula/Bank_Loan_Analysis/blob/29133729cf511caa8379203bf193b0c3010db4db/Pictures/Screenshot%202022-11-09%20at%2002.14.37.png)
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2002.14.12.png)
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2002.14.37.png)
 
 To create the necessary data model for doing analysis, we've created one for exploring discretized continuous variables (continuous variables which have been sorted into some kind of category) and another for exploring continuous variables. We may have a quantitative variable(s) in our data set that we want to discretize it or bin it or categorise it based on the values of the variable such that it is 0 or 1.
 
@@ -53,13 +53,13 @@ Analysis was done with the target questions in mind. Several conclusions were ob
 
 The vast majority of depositors do not have a security nor credit account. We see that there is a huge potential to increase revenue by encouraging the existing customers to subscribe to the assets of the organisation. 
 
-![](https://github.com/rhannula/Bank_Loan_Analysis/blob/7537cf0907310ae711a904c2f3fd7a0ec9f0af33/Pictures/Screenshot%202022-11-09%20at%2014.39.18.png)
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2014.39.18.png)
 
 
 When it comes to distribution in relation to personal loan, income and family size were the most influential attributes
 
-![](https://github.com/rhannula/Bank_Loan_Analysis/blob/cc4234835b85dc079c11235ce1ea3eecc33bb04d/Pictures/Screenshot%202022-11-09%20at%2014.43.09.png)
-![](https://github.com/rhannula/Bank_Loan_Analysis/blob/7650ea05fba7d75a60dc0077928705e8e914b60c/Pictures/Screenshot%202022-11-09%20at%2014.51.06.png)
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2014.43.09.png)
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2014.51.06.png)
 
 As for hypothesis testing to assert the statistical significance of different elements in relation to the personal loan. For this, we tested the following values: Mortgage, Age, Income, Family, Education, CCAvg and Experience. We found out through conducting a T-test that only Age and Experience elements do not have a significant impact on getting a personal loan but the rest does have enough statistical evidence for availing a personal loan. For this hypothesis test, we have set the significance value to 0.05 to ensure 95% confidence rate. 
 
@@ -74,14 +74,14 @@ As for hypothesis testing to assert the statistical significance of different el
 
 
 
-![](https://github.com/rhannula/Bank_Loan_Analysis/blob/2be79e6e32ed39c4f87472f09e86660c9dcbdcb8/Pictures/Screenshot%202022-11-09%20at%2016.33.38.png)
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2016.33.38.png)
 
-![](https://github.com/rhannula/Bank_Loan_Analysis/blob/2be79e6e32ed39c4f87472f09e86660c9dcbdcb8/Pictures/Screenshot%202022-11-09%20at%2016.46.00.png)
-![](https://github.com/rhannula/Bank_Loan_Analysis/blob/2be79e6e32ed39c4f87472f09e86660c9dcbdcb8/Pictures/Screenshot%202022-11-09%20at%2016.52.17.png)
-![](https://github.com/rhannula/Bank_Loan_Analysis/blob/2be79e6e32ed39c4f87472f09e86660c9dcbdcb8/Pictures/Screenshot%202022-11-09%20at%2016.52.32.png)
-![](https://github.com/rhannula/Bank_Loan_Analysis/blob/2be79e6e32ed39c4f87472f09e86660c9dcbdcb8/Pictures/Screenshot%202022-11-09%20at%2016.52.47.png)
-![](https://github.com/rhannula/Bank_Loan_Analysis/blob/2be79e6e32ed39c4f87472f09e86660c9dcbdcb8/Pictures/Screenshot%202022-11-09%20at%2016.53.01.png)
-![](https://github.com/rhannula/Bank_Loan_Analysis/blob/2be79e6e32ed39c4f87472f09e86660c9dcbdcb8/Pictures/Screenshot%202022-11-09%20at%2016.53.13.png)
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2016.46.00.png)
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2016.52.17.png)
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2016.52.32.png)
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2016.52.47.png)
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2016.53.01.png)
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/Screenshot%202022-11-09%20at%2016.53.13.png)
 
 
 
