@@ -63,6 +63,11 @@ When it comes to distribution in relation to personal loan, income and family si
 
 As for hypothesis testing to assert the statistical significance of different elements in relation to the personal loan. For this, we tested the following values: Mortgage, Age, Income, Family, Education, CCAvg and Experience. We found out through conducting a T-test that only Age and Experience elements do not have a significant impact on getting a personal loan but the rest does have enough statistical evidence for availing a personal loan. For this hypothesis test, we have set the significance value to 0.05 to ensure 95% confidence rate. 
 
+
+![](https://raw.githubusercontent.com/rhannula/Loan_Analysis/main/Pictures/pooled-t-statistics.png)
+
+For this analysis, we use two independent sample t-test formula as shown above
+
 ### P-Value:
 - **Mortgage**: `5.73034172e-024`
 - **Age**: `5.84959264e-001`
